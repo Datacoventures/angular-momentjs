@@ -1,5 +1,6 @@
 {
   "name": "angular-momentjs",
+  "main": "angular-momentjs.js",
   "version": "0.2.2",
   "description": "Moment.js for Angular.js",
   "homepage": "https://github.com/gdi2290/angular-momentjs",
